@@ -1,0 +1,8 @@
+Welcome in the movies library!
+You can store here movies you want to watch.
+Type movies name and press add button to add movie into the library.
+If you saw the movie from library you can move it to movies seen frame simply by selecting it and pressing watched button.
+You can not add the same movie twice.
+Title can be maximum 28 chars long.
+You can draw a random movie to watch by pressing random movie button.
+You can delete any movie by selecting it and pressing delete button.
